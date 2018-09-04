@@ -14,7 +14,7 @@ Our directories consist of two different projects:
 
 Those data and benchmarks are available in public for the purpose of research and downloaded without any personal contact. Please contact the original publishers or writers if you would want to enquire about the license status. 
 
-Acamdemic Papers
+Acamdemic Reference
 ------------
 
 project | title                                                 |  author                             |        year
