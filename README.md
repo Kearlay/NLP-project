@@ -39,16 +39,11 @@ filename                          |  description
 ----------------------------------|------------------------------------------------------------------------------------
 README.md                         |  Text file (markdown format) description of the project.
 
-Python scripts files:
+Jupyter notebook files:
 
 filename                          |  description
 ----------------------------------|------------------------------------------------------------------------------------
-fetch_oeis_database.py            |  Fetch and refresh data from the remote OEIS database to a local sqlite3 database.
+RecSys.ipynb                      |  Forked from https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101 for personal research
 
-Python modules:
-
-filename                          |  description
-----------------------------------|------------------------------------------------------------------------------------
-fraction_based_linear_algebra.py  |  Perform matrix inversion without loss of precision using the Fraction type.
 
 
