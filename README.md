@@ -32,6 +32,7 @@ Description of files
 --------------------
 
 - All code is written in python3
+- This project is still in progress and some scripts are not original. In case, we wrote down the URL for reference.
 
 Non-Python files:
 
