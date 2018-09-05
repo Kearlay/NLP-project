@@ -1,7 +1,7 @@
 Natural Language Processing Projects
 ==========
 
-This repository contains the python implementation of the recommender systems, especially focusing on collaborative filtering.
+This repository contains the python implementation of the recommender systems and sentimental analysis, especially focusing on collaborative filtering.
 I am attempting to achieve state-of-the-art performances in NLP Collaborated with researchers at Columbia University Medical Center.
 
 Overview
