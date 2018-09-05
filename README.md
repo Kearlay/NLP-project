@@ -19,7 +19,7 @@ Acamdemic Reference
 
 project | title                                                 |  author                             |        year
 --------|-------------------------------------------------------|-------------------------------------|-----------------
-RecSys  | Evaluating Collaborative Filtering Recommender Systems | Jonathan L. Herlocker, et al. | 2004
+RecSys  | \textit{Evaluating Collaborative Filtering Recommender Systems} | Jonathan L. Herlocker, et al. | 2004
 RecSys  | Recommender Systems Handbook | Francesco Ricci, et al. | 2015
 RecSys  | The use of machine learning algorithms in recommender systems: A systematic review | Ivens Portugal, et al. | 2018
 RecSys  | A hybrid recommender system using artificial neural networks | Tulasi K. Paradarami, et al. | 2017
