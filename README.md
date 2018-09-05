@@ -1,7 +1,7 @@
 Natural Language Processing Projects
 ==========
 
-This repository contains the python implementation of the recommender systems, especially focusing on collaborative filtering.
+This repository contains the python implementation of the recommender systems and sentimental analysis, especially focusing on collaborative filtering.
 I am attempting to achieve state-of-the-art performances in NLP Collaborated with researchers at Columbia University Medical Center.
 
 Overview
@@ -39,16 +39,11 @@ filename                          |  description
 ----------------------------------|------------------------------------------------------------------------------------
 README.md                         |  Text file (markdown format) description of the project.
 
-Python scripts files:
+Jupyter notebook files:
 
 filename                          |  description
 ----------------------------------|------------------------------------------------------------------------------------
-fetch_oeis_database.py            |  Fetch and refresh data from the remote OEIS database to a local sqlite3 database.
+RecSys.ipynb                      |  Forked from https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101 for personal research
 
-Python modules:
-
-filename                          |  description
-----------------------------------|------------------------------------------------------------------------------------
-fraction_based_linear_algebra.py  |  Perform matrix inversion without loss of precision using the Fraction type.
 
 
