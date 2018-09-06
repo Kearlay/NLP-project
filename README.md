@@ -44,7 +44,8 @@ Jupyter notebook files:
 
 filename                          |  description
 ----------------------------------|------------------------------------------------------------------------------------
-RecSys.ipynb                      |  Forked from https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101 for personal research
+RecSys.ipynb                      | Recommenders systems (in progress)
+MTA_analysis.ipynb                | Large-scale text analysis 
 
 
 
