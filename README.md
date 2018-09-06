@@ -32,6 +32,7 @@ Description of files
 --------------------
 
 - All code is written in python3
+- This project is still in progress and some scripts are not original. In case, we wrote down the URL for reference.
 
 Non-Python files:
 
@@ -43,7 +44,8 @@ Jupyter notebook files:
 
 filename                          |  description
 ----------------------------------|------------------------------------------------------------------------------------
-RecSys.ipynb                      |  Forked from https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101 for personal research
+RecSys.ipynb                      | Recommenders systems (in progress)
+MTA_analysis.ipynb                | Large-scale text analysis 
 
 
 
